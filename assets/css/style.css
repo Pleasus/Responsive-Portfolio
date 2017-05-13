@@ -288,6 +288,7 @@ input[type=submit] {
       float: left;
       margin-left: 20px;
       margin-right: 40px;
+      margin-bottom: 20px;
     }
     
     #logo {
@@ -317,5 +318,13 @@ input[type=submit] {
       float: left;
       margin: 10px 25% 10px 25%;
     }
+    
+    #masthead {
+      position: static;
+      margin: 0 0 10px;
+    }
 
+    #main-container {
+      padding-top: 10px;
+    }
 }
